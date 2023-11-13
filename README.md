@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carrington Manyuchi</h1>
-<h3 align="center">A passionate IOS dev & frontend dev from South Africa</h3>
+<h3 align="center"> I am well-versed in the latest iOS technologies  such as Swift, SwiftUI and Objective-C.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carrington-manyuchi&label=Profile%20views&color=0e75b6&style=flat" alt="carrington-manyuchi" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [React projects](https://github.com/carrington-manyuchi/react-website)
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently developing my skills in Swift **IOS APP Development**
 
-- 💬 Ask me about **ios, React, WordPress, PHP, Strapi, bootstrap, CSS**
+- 💬 Ask me about **ios, React, WordPress, PHP, Strapi, bootstrap, CSS, React**
 
 - 📫 How to reach me **carringtonmanyuchi263@gmail.com**
 
