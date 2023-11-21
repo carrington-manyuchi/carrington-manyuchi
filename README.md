@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/cj_manyuchi" target="blank"><img src="https://img.shields.io/twitter/follow/cj_manyuchi?logo=twitter&style=for-the-badge" alt="cj_manyuchi" /></a> </p>
 
-- 🔭 I’m currently working on [React projects](https://github.com/carrington-manyuchi/react-website)
+- 🔭 I’m currently working on [iOS Projects](https://github.com/carrington-manyuchi/CodeChallenge.git)
 
 - 🌱 I’m currently developing my skills in Swift **IOS APP Development**
 
