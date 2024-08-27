@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carrington Manyuchi</h1>
-<h3 align="center"> I am well-versed in the latest iOS technologies  such as Swift, SwiftUI and Objective-C.</h3>
+<h3 align="center"> I am well-versed in the latest iOS technologies  such as Swift, UIKit, SwiftUI & Objective-C.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carrington-manyuchi&label=Profile%20views&color=0e75b6&style=flat" alt="carrington-manyuchi" /> </p>
 
