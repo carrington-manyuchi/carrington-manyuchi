@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently developing my skills in Swift **IOS APP Development**
 
-- 💬 Ask me about **iOS, React, WordPress, PHP, Strapi, bootstrap, CSS, React**
+- 💬 Ask me about **iOS, UIKit, SwiftUI, Firebase, MVVM, Networking, WordPress, PHP,  bootstrap, CSS, React**
 
 - 📫 How to reach me **carringtonmanyuchi263@gmail.com**
 
