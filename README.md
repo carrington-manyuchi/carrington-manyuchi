@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Carrington Manyuchi</h1> <h3 align="center">Senior iOS Developer specializing in Swift, SwiftUI, and Apple Ecosystem Technologies</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=carrington-manyuchi&label=Profile%20views&color=0e75b6&style=flat" alt="carrington-manyuchi" /> </p><p align="left"> <a href="https://twitter.com/cj_manyuchi" target="blank"><img src="https://img.shields.io/twitter/follow/cj_manyuchi?logo=twitter&style=for-the-badge" alt="cj_manyuchi" /></a> </p>
+<h1 align="center">Hi 👋, I'm Carrington Manyuchi</h1>
+<h3 align="center">Intermediate iOS Developer specializing in Swift, SwiftUI, and Apple Ecosystem Technologies</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=carrington-manyuchi&label=Profile%20views&color=0e75b6&style=flat" alt="carrington-manyuchi" /> </p><p align="left"> <a href="https://twitter.com/cj_manyuchi" target="blank"><img src="https://img.shields.io/twitter/follow/cj_manyuchi?logo=twitter&style=for-the-badge" alt="cj_manyuchi" /></a> </p>
 🔭 I'm currently working on advanced iOS applications using SwiftUI and modern architectural patterns
 
 🌱 I'm currently deepening my expertise in Combine, Async/Await, Custom UI Components, and iOS Performance Optimization
